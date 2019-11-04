@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Solution for the challenge Defused from ECW 
-# did it adterward with Unicorn for learning 
+# did it afterward with Unicorn for learning 
 # and for the lulz
 # Author : Areizen
 
